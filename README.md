@@ -16,6 +16,8 @@ Horizontal rule:
 
 ---
 
+---
+
 Bullet list:
 
   * apples
