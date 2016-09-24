@@ -1,2 +1,2 @@
 # gits
-# cool file
+cool file
